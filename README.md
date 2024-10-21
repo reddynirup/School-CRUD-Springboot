@@ -56,7 +56,7 @@ This is a **Student Management System** built using **Spring Boot** and **Java**
 - `PUT /students/{studentId}`: Update student details.
 - `DELETE /students/{studentId}`: Delete a student by ID.
 - `POST /students/bulk`: Create multiple students in one request.
-
+<!--
 ## Future Enhancements
 
 - Add user authentication and authorization.
@@ -64,7 +64,7 @@ This is a **Student Management System** built using **Spring Boot** and **Java**
 - Implement pagination for large datasets.
 - Add unit tests to improve coverage.
 
-<!--
+
 Given five files,
 
 - `StudentController.java`
