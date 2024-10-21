@@ -64,8 +64,8 @@ This is a **Student Management System** built using **Spring Boot** and **Java**
 - Implement pagination for large datasets.
 - Add unit tests to improve coverage.
 
-
-/*Given five files,
+<!--
+Given five files,
 
 - `StudentController.java`
 - `StudentRepository.java`
@@ -263,4 +263,6 @@ Updates the details of a student in the `student` table based on the `studentId`
 
 Deletes a student from the `student` table based on the `studentId`. 
 
-**Do not modify the code in `SchoolApplication.java`***/
+**Do not modify the code in `SchoolApplication.java`**
+
+-->
